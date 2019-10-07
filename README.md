@@ -14,4 +14,5 @@ Packages required to run project:
   Google VR package for Unity (unity asset store)
   Standard assets package for Unity (unity asset store)
 
+Checkpoint 1:
 https://www.youtube.com/watch?v=B6FkDZKcnrU&feature=youtu.be
